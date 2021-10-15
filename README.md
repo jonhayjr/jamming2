@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Jamming
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the 'Jamming' React web application from Codeacademy that I created using React 'class' components.
 
 ## Available Scripts
 
